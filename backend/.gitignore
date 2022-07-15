@@ -1,0 +1,13 @@
+!--no-ignore
+# Dependencies
+node_modules
+src/public/upload/images
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env
+!.env
+
+# Code coverage
+coverage
